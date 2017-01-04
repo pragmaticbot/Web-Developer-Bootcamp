@@ -1,4 +1,5 @@
 # Web Developer Bootcamp
+Solutions for the exercises of Web Developer Bootcamp
 
 * **HTML & CSS Solutions**
   * [Pokemon Table](http://codepen.io/pragmaticbot/full/QdWWWJ)
