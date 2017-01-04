@@ -1,4 +1,4 @@
-# Web-Developer-Bootcamp
+# Web Developer Bootcamp
 
 * HTML & CSS Exercises
   * [Image Gallery Exercise](http://codepen.io/pragmaticbot/pen/jyOQzo)
