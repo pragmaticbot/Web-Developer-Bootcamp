@@ -18,3 +18,4 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
     * [While Loops Problem Set](http://codepen.io/pragmaticbot/pen/XpbGzQ?editors=1111)
     * [Annoy-omatic](http://codepen.io/pragmaticbot/pen/apOxod/?editors=1011)
     * [For Loops Problem Set](http://codepen.io/pragmaticbot/pen/rjVbOa/?editors=1111)
+    * [Function Problem Set](http://codepen.io/pragmaticbot/pen/WRvqrZ?editors=1011)
