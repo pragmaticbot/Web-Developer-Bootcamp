@@ -11,3 +11,6 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
     * [Landing Page](http://codepen.io/pragmaticbot/full/QdWzaN)
   * **JS Basic Solutions**
     * [JS Stalker](http://codepen.io/pragmaticbot/full/LxYKPG)
+* **Day 2**
+  * **JS Basic Solutions**
+    * [Simple Prompt Age Calculator](http://codepen.io/pragmaticbot/full/bgdzKw/)
