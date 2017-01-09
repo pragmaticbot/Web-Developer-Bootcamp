@@ -19,8 +19,8 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
     * [Annoy-omatic](http://codepen.io/pragmaticbot/pen/apOxod/?editors=1011)
     * [For Loops Problem Set](http://codepen.io/pragmaticbot/pen/rjVbOa/?editors=1111)
     * [Function Problem Set](http://codepen.io/pragmaticbot/pen/WRvqrZ?editors=1011)
-    * [Simple Todo App](http://codepen.io/pragmaticbot/full/mRJNOX?editors=0011)
 * **Day 3**
-    * **JS Basic Solutions**
-      * [Array Problem Set](https://codepen.io/pragmaticbot/pen/OWyWax?editors=1011)
-      * [Created my own forEach function](https://codepen.io/pragmaticbot/pen/RKWpEB?editors=0010)
+  * **JS Basic Solutions**
+    * [Simple Todo App](http://codepen.io/pragmaticbot/full/mRJNOX?editors=0011)
+    * [Array Problem Set](https://codepen.io/pragmaticbot/pen/OWyWax?editors=1011)
+    * [Created my own forEach function](https://codepen.io/pragmaticbot/pen/RKWpEB?editors=0010)
