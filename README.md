@@ -24,3 +24,6 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
     * [Simple Todo App](http://codepen.io/pragmaticbot/full/mRJNOX?editors=0011)
     * [Array Problem Set](https://codepen.io/pragmaticbot/pen/OWyWax?editors=1011)
     * [Created my own forEach function](https://codepen.io/pragmaticbot/pen/RKWpEB?editors=0010)
+* **Day 4**
+  * **JS Basic Solutions**
+    * [Color Changer](http://codepen.io/pragmaticbot/full/rjxVaM/)
