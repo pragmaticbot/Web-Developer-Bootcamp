@@ -27,4 +27,4 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
 * **Day 4**
   * **JS Basic Solutions**
     * [Color Changer](http://codepen.io/pragmaticbot/full/rjxVaM/)
-    * [JS Score Tracker](http://codepen.io/pragmaticbot/full/GropaW/)
+    * [JS Score Tracker](http://codepen.io/pragmaticbot/full/GropaW/)``Updated
