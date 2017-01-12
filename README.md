@@ -29,4 +29,5 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
     * [Color Changer](http://codepen.io/pragmaticbot/full/rjxVaM/)
     * [JS Score Tracker](http://codepen.io/pragmaticbot/full/GropaW/)``Updated``
 * **Day 6**
-  * Currently have colds so I take day off from coding and rest whole day. Hopefully be back day 7 :)
+  * Currently have colds so I take day off from coding and rest whole day. Hopefully be back day 7 :) Have read few articles
+    about node api's and watched videos about event handlers and callbacks.
