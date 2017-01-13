@@ -31,3 +31,5 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
 * **Day 6 & 7**
   * Currently have colds so I take day off from coding and rest whole day. Hopefully be back day 7 :) Have read few articles about node api's and watched videos about event handlers and callbacks.
   * The next day I was busy taking the practical javascript course to relearn the basics just to solidify my knowledge about arrays, objects and also functions. Tomorrow everything will be back normal schedule to continue with this course.
+* **Day 8**
+  * 
