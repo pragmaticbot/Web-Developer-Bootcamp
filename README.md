@@ -28,3 +28,5 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
   * The next day I was busy taking the practical javascript course to relearn the basics just to solidify my knowledge about arrays, objects and also functions. Tomorrow everything will be back normal schedule to continue with this course.
 * **Day 8**
   * [RGB Game](http://codepen.io/pragmaticbot/full/oBLabz/)
+* **Day 9**
+  * [Interactive Todo List](http://codepen.io/pragmaticbot/full/JERKVa)
