@@ -30,3 +30,5 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
   * [RGB Game](http://codepen.io/pragmaticbot/full/oBLabz/)
 * **Day 9**
   * [Interactive Todo List](http://codepen.io/pragmaticbot/full/JERKVa) : Updated JS File
+* **Day 10**
+  *
