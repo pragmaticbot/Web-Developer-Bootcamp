@@ -31,4 +31,4 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
 * **Day 9**
   * [Interactive Todo List](http://codepen.io/pragmaticbot/full/JERKVa) : Updated JS File
 * **Day 10**
-  *
+  * Today everything is focused on concepts behind the backend and basics of HTTP request so no exercises. 
