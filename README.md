@@ -33,4 +33,4 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
 * **Day 10**
   * Today everything is focused on concepts behind the backend and basics of HTTP request so no exercises.
 * **Day 11 & 12**
-  * I was busy taking care of family business that's why I don't have time to study and continue with the course. Probably I will continue with the course on weekend or monday next week.
+  * I was busy taking care of family business that's why I don't have time to study and continue with the course. Probably I will continue with the course on weekend or monday next week. Even though I'm not studying the material, I take time to read some few articles and book about JavaScript and some design patterns.
