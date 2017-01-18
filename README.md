@@ -31,4 +31,6 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
 * **Day 9**
   * [Interactive Todo List](http://codepen.io/pragmaticbot/full/JERKVa) : Updated JS File
 * **Day 10**
-  * Today everything is focused on concepts behind the backend and basics of HTTP request so no exercises. 
+  * Today everything is focused on concepts behind the backend and basics of HTTP request so no exercises.
+* **Day 11 & 12**
+  * I was busy taking care of family business that's why I don't have time to study and continue with the course. Probably I will continue with the course on weekend or monday next week.
