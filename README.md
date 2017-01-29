@@ -34,5 +34,7 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
   * Today everything is focused on concepts behind the backend and basics of HTTP request so no exercises.
 * **Day 11 & 12**
   * I was busy taking care of family business that's why I don't have time to study and continue with the course. Probably I will continue with the course on weekend or monday next week. Even though I'm not studying the material, I take time to read some few articles and book about JavaScript and some design patterns.
-* **Day 13 to 18**
+* **Day 13 to 22**
   * I was out of town for a feast at my home town. Spend most of the time having good time and catching up with some child hood friends and some classmate. I'll be back in regular schedule tomorrow studying and continuing my learning.
+* **Day 23**
+  * Finished setting my workspace on c9 and also been reading some common terminal command. Gonna start reviewing few lessons today before continuing everything tomorrow.
