@@ -38,3 +38,5 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
   * I was out of town for a feast at my home town. Spend most of the time having good time and catching up with some child hood friends and some classmate. I'll be back in regular schedule tomorrow studying and continuing my learning.
 * **Day 23**
   * Finished setting my workspace on c9 and also been reading some common terminal command. Gonna start reviewing few lessons today before continuing everything tomorrow.
+* **Day 24**
+  * Started learning server side framework. I started with Express since it's the most heavily used framework of nodejs. 
