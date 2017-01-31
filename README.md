@@ -40,3 +40,5 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
   * Finished setting my workspace on c9 and also been reading some common terminal command. Gonna start reviewing few lessons today before continuing everything tomorrow.
 * **Day 24**
   * Started learning server side framework. I started with Express since it's the most heavily used framework of nodejs. Finished an exercise about npm and make a dummy product list with prices using a package named Faker.
+* **Day 25**
+  * Created my first express app and learn the basics of routing and path variables. I learned also how to use the request and response parameters and used it as variables inside each routes.
