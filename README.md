@@ -44,3 +44,5 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
   * Created my first express app and learn the basics of routing and path variables. I learned also how to use the request and response parameters and used it as variables inside each routes. Today also I spend few hours studying how api works on node.
 * **Day 26**
   * Working on few API's and testing data and handling it. I'm also working with c9 now instead of normal iterm and atom.
+* **Day 27**
+  * Started working on a Yelp clone using express and ejs as templating engine.
