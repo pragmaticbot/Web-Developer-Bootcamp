@@ -29,7 +29,6 @@ server.post('/campgrounds', (req, res) => {
   //get data from Form
   var name = req.body.name;
   var image = req.body.image;
-  console.log(name, image);
   var newCamp = {title: name, image: image};
 
   // push data to arrays
