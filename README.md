@@ -45,4 +45,4 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
 * **Day 26**
   * Working on few API's and testing data and handling it. I'm also working with c9 now instead of normal iterm and atom.
 * **Day 27**
-  * Started working on a Yelp clone using express and ejs as templating engine.
+  * Started working on a Yelp clone using express and ejs as templating engine. Working on main functionalities of the site and basic styling.
