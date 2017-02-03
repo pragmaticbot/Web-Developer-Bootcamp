@@ -1,0 +1,14 @@
+<% include partials/header %>
+
+<a href="/new">Add new post</a>
+
+<% query.forEach((post) => { %>
+  <div>
+    <h3><a href="/post/<%= post._id %>"> <%= post.title %></a></h3>
+    <img src="<%= post.image %>" alt="">
+    <p><%= post.content %></p>
+  </div>
+<% }); %>
+
+
+<% include partials/footer %>

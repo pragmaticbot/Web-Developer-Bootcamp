@@ -1,0 +1,11 @@
+<% include partials/header %>
+<a href="/post/<%= query._id %>">Back</a>
+
+<form action="/post/<%= query._id %>?method=PUT" method="post">
+  <input type="text" name="title" placeholder="Title here" value="<%= query.title %>">
+  <input type="text" name="image" placeholder="Image url here" value="<%= query.image %>">
+  <input type="text" name="content" placeholder="Write post here" value="<%= query.content %>">
+  <button>Update Post</button>
+</form>
+
+<% include partials/footer %>

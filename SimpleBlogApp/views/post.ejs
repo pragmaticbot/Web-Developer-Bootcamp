@@ -1,0 +1,17 @@
+<% include partials/header %>
+
+<ul>
+  <li><a href="/">Go Home</a></li>
+  <li><a href="/new">New Post</a></li>
+</ul>
+
+<h2><%= query.title %></h2>
+<img src="<%= query.image %>" alt="">
+<p><%= query.content %></p>
+
+<a href="/post/<%= query._id %>/edit">Edit Post</a>
+<form class="" action="/post/<%= query._id %>?method=delete" method="post">
+  <input type="submit" name="" value="Delete">
+</form>
+
+<% include partials/footer %>
