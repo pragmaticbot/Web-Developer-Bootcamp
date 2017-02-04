@@ -49,4 +49,4 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
 * **Day 28**
   * Created a simple CRUD blog app using express, mongodb. Gonna continue with the course and study about data associations in mongodb. Built a [restful routes](http://codepen.io/pragmaticbot/full/zNjBZx/) guide on codepen
 * **Day 29**
-  * Currently working with my YelpCamp project and refactor some codes from routes to database models. I also created a comment system functionality.
+  * Currently working with my YelpCamp project and refactor some codes from routes to database models. I also created a comment system functionality. I'm also studying passport for authentication in express, it's kinda hard because of this middleware but hey I'm not giving up :)
