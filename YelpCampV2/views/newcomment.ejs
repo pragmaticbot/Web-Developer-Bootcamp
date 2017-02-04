@@ -1,0 +1,15 @@
+<% include partials/header %>
+
+<div class="container content">
+
+  <h1>Add new Campground</h1>
+  <form action="/campgrounds/<%= query._id %>/comments" method="POST">
+    <input class="form-control" type="text" name="comment[title]" placeholder="Comment here">
+    <input class="form-control" type="text" name="comment[author]" placeholder="Add name here">
+    <input type="submit" class="btn btn-primary btn-sm">
+    <a href="/campgrounds/<%= query._id %>" class="btn btn-primary btn-sm mg">Go back</a>
+  </form>
+
+</div>
+
+<% include partials/footer %>
