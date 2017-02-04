@@ -47,4 +47,6 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
 * **Day 27**
   * Started working on a Yelp clone using express and ejs as templating engine. Working on main functionalities of the site and basic styling.
 * **Day 28**
-  * Created a simple CRUD blog app using express, mongodb. Gonna continue with the course and study about data associations in mongodb. Built a [restful routes](http://codepen.io/pragmaticbot/full/zNjBZx/) guide on codepen 
+  * Created a simple CRUD blog app using express, mongodb. Gonna continue with the course and study about data associations in mongodb. Built a [restful routes](http://codepen.io/pragmaticbot/full/zNjBZx/) guide on codepen
+* **Day 29**
+  * Currently working with my YelpCamp project and refactor some codes from routes to database models. I also created a comment system functionality.
