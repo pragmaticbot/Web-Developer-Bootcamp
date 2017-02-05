@@ -20,27 +20,75 @@
     input, .mg {
       margin-top: 10px;
     }
+
+    body {
+      min-height: 75rem; /* Can be removed; just added for demo purposes */
+    }
+
+    .navbar {
+      margin-bottom: 0;
+    }
+
+    .jumbotron {
+      padding-top: 3rem;
+      padding-bottom: 3rem;
+      margin-bottom: 0;
+      background-color: #fff;
+    }
+
+    .jumbotron p:last-child {
+      margin-bottom: 0;
+    }
+
+    .jumbotron-heading {
+      font-weight: 300;
+    }
+
+    .album {
+      min-height: 50rem; /* Can be removed; just added for demo purposes */
+      padding-top: 3rem;
+      padding-bottom: 3rem;
+      background-color: #f7f7f7;
+    }
+
+    .card {
+      float: left;
+      width: 33.333%;
+      padding: .75rem;
+      margin-bottom: 2rem;
+      border: 0;
+    }
+
+    .card > img {
+      margin-bottom: .75rem;
+    }
+
+    .card-text {
+      font-size: 85%;
+    }
+
+    footer {
+      padding-top: 3rem;
+      padding-bottom: 3rem;
+    }
+
+    footer p {
+      margin-bottom: .25rem;
+    }
+
   </style>
 </head>
 <body>
 
-<nav class="navbar navbar-inverse bg-inverse">
-  <div class="container">
+  <nav class="navbar navbar-toggleable-lg navbar-inverse bg-inverse">
+    <div class="container">
 
-    <a class="navbar-brand float-left" href="/">Yelp Camp</a>
+      <ul class="navbar-nav">
+        <li class="nav-item active"><a class="nav-link navbar-brand" href="/">Yelp Camp</a></li>
+        <li class="nav-item"><a class="nav-link" href="/login">Login</a></li>
+        <li class="nav-item"><a class="nav-link" href="/register">Register</a></li>
+        <li class="nav-item"><a class="nav-link" href="/logout">Logout</a></li>
+      </ul>
 
-    <ul class="nav">
-      <li class="nav-item active">
-        <a class="nav-link" href="/campgrounds">Campgrounds</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="/campgrounds/new">Add New Camp</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Pricing</a>
-      </li>
-    </ul>
-
-  </div>
-
-</nav>
+    </div>
+  </nav>

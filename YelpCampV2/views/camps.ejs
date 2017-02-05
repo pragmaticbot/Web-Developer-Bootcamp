@@ -1,14 +1,29 @@
 <% include partials/header %>
 
-<div class="container">
+<div class="jumbotron">
+  <div class="container">
+    <h1 class="display-3">Hello, world!</h1>
+    <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+    <p><a class="btn btn-primary btn-lg" href="/campgrounds/new" role="button">Add new Camp</a></p>
+  </div>
+</div>
 
-  <% camps.forEach((camp) =>{ %>
-    <div class="content">
-      <h4><a href="/campgrounds/<%= camp._id %>"><%= camp.title %></a></h4>
-      <img src="<%= camp.image %>" alt="">
+<div class="album text-muted">
+  <div class="container">
+
+    <div class="row">
+
+      <% camps.forEach((camp) =>{ %>
+        <div class="card">
+          <h4><a href="/campgrounds/<%= camp._id %>"><%= camp.title %></a></h4>
+          <img src="<%= camp.image %>" alt="100%x280" style="height: 280px; width: 100%; display: block;">
+          <p class="card-text"><%= camp.desc %></p>
+          <a class="btn btn-secondary" href="/campgrounds/<%= camp._id %>" role="button">View details »</a>
+        </div>
+      <% }); %>
+
     </div>
-  <% }); %>
-
+  </div>
 </div>
 
 <% include partials/footer %>

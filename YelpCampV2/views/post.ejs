@@ -1,14 +1,23 @@
 <% include ./partials/header %>
 
 <div class="container content">
-  <h2><%= post.title %></h2>
-  <img src="<%= post.image %>" alt="">
-  <p><%= post.desc %></p>
-  <p><span>Comments: </span>
-    <% post.comments.forEach(function(comment) { %>
-      <strong><%= comment.title %></strong> - <em><%= comment.author %></em>
-    <% }); %>
-  </p>
+  <div class="row">
+  <div class="col-lg">
+
+    <h2><%= post.title %></h2>
+    <img src="<%= post.image %>" alt="">
+    <p><%= post.desc %></p>
+    <p><span>Comments: </span></p>
+      <ul>
+      <% post.comments.forEach(function(comment) { %>
+        <li><strong><%= comment.title %></strong> - <em><%= comment.author %></em></li>
+      <% }); %>
+      </ul>
+
+    <a href="/campgrounds/<%= post._id %>/comments/new" class="btn btn-primary btn-sm mg">Add Comment</a>
+
+  </div>
+  </div>
 </div>
 
 <% include ./partials/footer %>
