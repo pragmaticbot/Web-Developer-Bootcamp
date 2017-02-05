@@ -50,3 +50,5 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
   * Created a simple CRUD blog app using express, mongodb. Gonna continue with the course and study about data associations in mongodb. Built a [restful routes](http://codepen.io/pragmaticbot/full/zNjBZx/) guide on codepen
 * **Day 29**
   * Currently working with my YelpCamp project and refactor some codes from routes to database models. I also created a comment system functionality. I'm also studying passport for authentication in express, it's kinda hard because of this middleware but hey I'm not giving up :)
+* **Day 30**
+  * I'm still studying about middleware and user auth using passport. I want to really understand things like sessions also salt and hash and the logic of each functions being used as middleware like passport-local-mongoose. I also started refactoring some routes and read few things it.
