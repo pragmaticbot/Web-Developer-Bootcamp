@@ -53,4 +53,6 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
 * **Day 30**
   * I'm still studying about middleware and user auth using passport. I want to really understand things like sessions also salt and hash and the logic of each functions being used as middleware like passport-local-mongoose. I also started refactoring some routes and read few things it.
 * **Day 31**
-  
+  * I was busy last day reading you don't know javascript series. I just finished up and going just to review my basics. I'm planning to subscribe to es6.io course in order to learn and next level javascript ecma5 or es6.
+* **Day 32**
+  * Continue learning express and creating an app for a friend. I think I will finish it by this weekend. I'm gonna publish my source at github if someone might be interested in my projects :)
