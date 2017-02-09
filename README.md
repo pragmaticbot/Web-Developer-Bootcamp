@@ -57,3 +57,5 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
 * **Day 32**
   * Continue learning express and creating an app for a friend. I think I will finish it by this weekend. I'm gonna publish my source at github if someone might be interested in my projects :)
 * **Day 33**
+
+* **Day 34**
