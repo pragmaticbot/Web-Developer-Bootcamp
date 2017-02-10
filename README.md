@@ -60,3 +60,4 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
 
 * **Day 34**
 * **Day 35**
+* **Day 36**
