@@ -56,9 +56,8 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
   * I was busy last day reading you don't know javascript series. I just finished up and going just to review my basics. I'm planning to subscribe to es6.io course in order to learn and next level javascript ecma5 or es6.
 * **Day 32**
   * Continue learning express and creating an app for a friend. I think I will finish it by this weekend. I'm gonna publish my source at github if someone might be interested in my projects :)
-* **Day 33**
-
-* **Day 34**
+* **Day 33 & 34**
+  * I just purchased a new course about JavaScript basics. It seems that this course haven't taken few things about javascript like prototypes and also es6.
 * **Day 35**
   * I'm working on a project using the knowledge I learn on this course. I'm still studying mongo db then express middleware and also authentication and authorization.
 * **Day 36**
