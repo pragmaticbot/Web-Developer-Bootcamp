@@ -60,5 +60,5 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
   * I just purchased a new course about JavaScript basics. It seems that this course haven't taken few things about javascript like prototypes and also es6.
 * **Day 35**
   * I'm working on a project using the knowledge I learn on this course. I'm still studying mongo db then express middleware and also authentication and authorization.
-* **Day 36 - 39**
+* **Day 36 - 40**
   * A friend of mine ask me if I can build a simple site for his project. I been working on that project and I think I can finish it this weekend. I might just finish this course completely before taking another course. I have been stuck ever since I started learning authorization and authentications. Hopefully I will understand things around this technology.
