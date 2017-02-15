@@ -63,3 +63,4 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
 * **Day 36 - 40**
   * A friend of mine ask me if I can build a simple site for his project. I been working on that project and I think I can finish it this weekend. I might just finish this course completely before taking another course. I have been stuck ever since I started learning authorization and authentications. Hopefully I will understand things around this technology.
 * **Day 41**
+* **Day 42**
