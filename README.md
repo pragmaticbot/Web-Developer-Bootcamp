@@ -65,3 +65,4 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
 * **Day 49**
   * I currently working studying ES6 because I want to know the syntax and I want to start using react and react native.
 * **Day 50**
+  * Just finished the entire course. Gonna review everything today and make a simple blog using express and passport.
