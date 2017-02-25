@@ -64,6 +64,6 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
   * A friend of mine ask me if I can build a simple site for his project. I been working on that project and I think I can finish it this weekend. I might just finish this course completely before taking another course. I have been stuck ever since I started learning authorization and authentications. Hopefully I will understand things around this technology.
 * **Day 49**
   * I currently working studying ES6 because I want to know the syntax and I want to start using react and react native.
-* **Day 50**
+* **Day 50 & 52**
   * Just finished the entire course. Gonna review everything today and make a simple blog using express and passport.
-* **Day 51**
+* **Day 53**
