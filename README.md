@@ -69,3 +69,4 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
 * **Day 53**
   * I was sick today so I take a break and continue everything maybe one tuesday. See you on tuesday.
 * **Day 54**
+  * Gonna start learning React Native :) Yey!
