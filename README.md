@@ -68,3 +68,4 @@ Solutions for the exercises of Web Developer Bootcamp. I compiled here the links
   * Just finished the entire course. Gonna review everything today and make a simple blog using express and passport.
 * **Day 53**
   * I was sick today so I take a break and continue everything maybe one tuesday. See you on tuesday.
+* **Day 54**
